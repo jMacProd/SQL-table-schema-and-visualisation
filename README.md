@@ -3,15 +3,16 @@
 
 ## Technologies:
 Python - version 3.6 Jupyter Notebok
+
 pgadmin - version 11
 
 ## Navigating the repository:
 
 ### Directory: EmployeeSQL
 * Contains following documents:
-    * EmployeeSQL_schema.sql - Set up of table Schema and inport of CSVs
+    * EmployeeSQL_schema.sql - Set up of table Schema and importing of CSVs
     
-    * EmployeeSQL_queries.sql - Querying database to persent various requests
+    * EmployeeSQL_queries.sql - Querying database to present various requests
     
     * SQL_Challenge_Bonus.ipynb - Salary range histogram and Title salary averages barchart from sql database
     
